@@ -1,0 +1,13 @@
+.imgContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.img {
+    width: 30%;
+    height: 50rem;
+    border: 2px solid black;
+    margin-top: 3rem;
+}
